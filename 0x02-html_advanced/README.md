@@ -19,7 +19,7 @@ This is the HTML code for the homepage.
 
 Part 1 of a project developed as part of the **Full Stack Web Developer** program from [Holberton](https://www.holbertonschool.com/).
 
-For the updated version click [here](https://github.com/Criptograma-1/hex-web-development/edit/main/0x03-css_advanced/)
+For the updated version click [here](https://github.com/)
 
 ---
 
