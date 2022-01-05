@@ -49,6 +49,3 @@ Read or watch:
 ### [11. Make the article page responsive](./100-article.html)
 
 ---
-
-## Author
-* **Diego Monroy** - [diegozencode](https://github.com/diegozencode)
